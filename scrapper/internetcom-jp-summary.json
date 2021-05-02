@@ -1,0 +1,165 @@
+{
+    "query": "ai",
+    "newsfeeds": [
+        {
+            "title": "ソニー「VISION-S」国内初の一般公開―国内外の自動車メーカー製電気自動車が一堂に会する「EV:LIFEFUTAKOTAMAGAWA」二子玉川で開催",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/207176/99954f4b7d0dbdaaa3a0c8f11711804e_special.jpg",
+            "title_link": "https://internetcom.jp/207176/ev-life-futakotamagawa",
+            "summary": "国内市場で販売されている電気自動車が一堂に会する「EV:LIFEFUTAKOTAMAGAWA」開催。イベントでは、ソニー「VISION-S」の国内初の一般公開が実施される。",
+            "category": "自動車",
+            "buzz_count": "10"
+        },
+        {
+            "title": "ワーゲンバスみたいな「ID.Buzz」が自動運転のテスト車両に",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/207088/4e5a2e79cd3983f319efad0f43b8fa83_special.jpg",
+            "title_link": "https://internetcom.jp/207088/vwa-id-buzz-self-driving-test",
+            "summary": "ドイツのフォルクスワーゲン・コマーシャル・ビークルは、ワーゲンバスを想起させる「ID.Buzz」で自動運転のテストをすると発表しました。",
+            "category": "自動車",
+            "buzz_count": "14"
+        },
+        {
+            "title": "LEXUSが新型「IS」を発売－デザインコンセプトは“俊敏＆挑発的”",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/206672/fe4fb4e93cf2d45b0fc6bd88caf150e7_special.jpg",
+            "title_link": "https://internetcom.jp/206672/lexus-is-2021-models",
+            "summary": "LEXUSはコンパクトFRスポーツセダン「IS」をマイナーチェンジした。デザインコンセプトは“Agile（俊敏）＆Provocative（挑発的）”。走りを予感させるスタンスと、アグレッシブなデザインを目指した。",
+            "category": "自動車",
+            "buzz_count": "4"
+        },
+        {
+            "title": "トヨタ「クラウン」一部改良－内外装の質感をアップ",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/206664/e2352544e20b7d97accd2589173041e2_special.jpg",
+            "title_link": "https://internetcom.jp/206664/toyota-crown-minor-changed-models",
+            "summary": "トヨタは「クラウン」に一部改良を施して発売した。内外装の質感を高めたほか、進化した「ToyotaSafetySense」を装備している。",
+            "category": "自動車",
+            "buzz_count": "6"
+        },
+        {
+            "title": "RaspberryPiを活用　新型コロナやインフルエンザの流行予測を目指す「FluSense」",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/205792/8d3620764ddc6d7f5e8ef2099b0a3b03_special.jpg",
+            "title_link": "https://internetcom.jp/205792/raspberry-pi-flusense",
+            "summary": "マサチューセッツ大学アマースト校の研究者らがRaspberryPiを活用したAIデバイス「FluSense」を開発した。季節性インフルエンザや新型コロナウイルス感染症流行の予測を目指すとしている。",
+            "category": "サイエンス",
+            "buzz_count": "7"
+        },
+        {
+            "title": "真赤な完全ワイヤレスイヤホン「HUAWEIFreeBuds3レッドエディション」―アクティブノイキャンつき！",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/205728/0353ce9c5478130bdda088a0fabae156_special.jpg",
+            "title_link": "https://internetcom.jp/205728/huawei-freebuds-3-red-edition",
+            "summary": "華為技術（ファーウェイ）は、耳を密閉しないオープンフィット型ながらノイズキャンセリング機能を備えた完全ワイヤレスイヤホン「HUAWEIFreeBuds3」に新色「レッドエディション」を追加した。2月14日に発売する。\r",
+            "category": "ガジェット",
+            "buzz_count": "8"
+        },
+        {
+            "title": "スマホ用DVDプレーヤー「DVRP-W8AI3」―Wi-Fiで接続、どこでもビデオ視聴",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/205700/3e5e77e4ea31f245829d0ce00fab4853_special.jpg",
+            "title_link": "https://internetcom.jp/205700/dvrp-w8ai3-is-dvd-player-for-smartphone",
+            "summary": "スマートフォン用DVDプレーヤー「DVDミレル」に新モデル「DVRP-W8AI3」が登場した。DVDに収めた映画やドラマ、ホームビデオなどを、PCやテレビのない環境でも視聴可能にするための製品。アイ・オー・データ機器が発売する。\r\r",
+            "category": "ガジェット",
+            "buzz_count": "32"
+        },
+        {
+            "title": "日立、スマホとつながるドラム式洗濯乾燥機「BD-SX110E」―洗い方などを助言",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/205565/6505beb8c868e83805653be4d8f55a77_special.jpg",
+            "title_link": "https://internetcom.jp/205565/smartphone-connected-washer-bd-sx110e",
+            "summary": "スマートフォンと連携するコネクテッド家電として、ドラム式洗濯乾燥機「ヒートリサイクル風アイロンビッグドラムBD-SX110E」とタテ型洗濯乾燥機「ビートウォッシュBW-DX120E」を日立グローバルライフソリューションズが9月21日より販売する。\r",
+            "category": "家電",
+            "buzz_count": "9"
+        },
+        {
+            "title": "ソニー「α7RIV」―約6,100万画素の35mmフルサイズ裏面照射型CMOS搭載",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/205520/254d8e5eee19f4cdf305df22ca2e3c6c_special.jpg",
+            "title_link": "https://internetcom.jp/205520/sony-alpha-7r-iv",
+            "summary": "約6,100万画素の35mmフルサイズ裏面照射型CMOSイメージセンサー「ExmorR（エクスモアアール）」を搭載するα（Alpha）レンズ交換式デジタル一眼カメラ「α7RIV」をソニーが発売する。高速、高追従AF性能、AF／AE追従最高約10コマ／秒の連写性能が特徴。",
+            "category": "ガジェット",
+            "buzz_count": "17"
+        },
+        {
+            "title": "4Kダブルチューナーつき65型有機ELテレビ「TH-65GZ1800」―パナソニック",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/205477/fe38e5b0b01f8094a73b4b0610500948_special.jpg",
+            "title_link": "https://internetcom.jp/205477/panasonic-releases-oled-tv-th-65gz1800",
+            "summary": "4Kダブルチューナー内蔵有機ELテレビ「TH-65GZ1800」など2シリーズ4機種をパナソニックが発売する。いずれもBS4K・110度CS4Kダブルチューナーを搭載。別売の外付けHDDを接続して、新4K衛星放送視聴中でも新4K衛星放送の裏番組録画が可能。",
+            "category": "家電",
+            "buzz_count": "4"
+        },
+        {
+            "title": "オーディオとスマホをBluetooth接続「LBT-AVWAR501BK」―20m離れてもOK",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/205452/fe9587b10e1e52b7eba28225f9bf50f6_special.jpg",
+            "title_link": "https://internetcom.jp/205452/elecom-releases-bluetooth-reciever-lbt-avwar501bk",
+            "summary": "家庭のオーディオシステムとスマートフォンをBluetoothで接続するオーディオレシーバー「LBT-AVWAR501BK」をエレコムが発売する。",
+            "category": "ガジェット",
+            "buzz_count": "8"
+        },
+        {
+            "title": "4Kチューナー内蔵テレビ「4KビエラGX850」―従来映像もHDRのような高コントラストに",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/205302/7504fc5354af6de612ee6decbf71b515_special.jpg",
+            "title_link": "https://internetcom.jp/205302/4k-television-gx850",
+            "summary": "パナソニックは4K薄型テレビ「4Kビエラ」シリーズより、BS4K・110度CS4Kチューナー内蔵の新モデルを1月25日より順次販売開始する。新たなHDR技術を採用した「GX850」シリーズ4機種、非採用の「GX750」シリーズ2機種をそろえる。\r",
+            "category": "家電",
+            "buzz_count": "11"
+        },
+        {
+            "title": "まるい会話ロボット「ガンシェルジュハロ」発売―ずっとガンダムトークしてくれる",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/205051/6686877c02de460a105f6b2552e31d0d_special.jpg",
+            "title_link": "https://internetcom.jp/205051/guncierge-haro",
+            "summary": "人気アニメ「機動戦士ガンダム」のキャラクター「ハロ」そっくりなコミュニケーションロボット「ガンシェルジュハロ」が10月から発送開始予定だ。7月25日から購入予約受け付けが始まるとのこと。バンダイの直販サイト「プレミアムバンダイ」が取り扱う。",
+            "category": "ガジェット",
+            "buzz_count": "38"
+        },
+        {
+            "title": "愛車とLINEで友達に―トヨタ「カローラスポーツ」発売",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/204963/bd38bcd53c8f128baeacc5fddc692ab2_special.jpg",
+            "title_link": "https://internetcom.jp/204963/toyota-corolla-sport",
+            "summary": "トヨタ新型「カローラスポーツ」発売。スマートフォンのLINEアプリから目的地登録できる「LINEマイカーアカウント」などの新サービスが提供される。",
+            "category": "自動車",
+            "buzz_count": "17"
+        },
+        {
+            "title": "ネコのおしっこ情報を飼い主にシェアするペット用トイレ「HN-PC001」",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/204910/9f9e076da149e2c1ded9b8ae63dfa587_special.jpg",
+            "title_link": "https://internetcom.jp/204910/cat-toilet-hn-pc001",
+            "summary": "飼いネコのおしっこなどを記録し、スマートフォンから健康状態を把握できるペット用トイレ「HN-PC001」シャープが7月30日発売する。",
+            "category": "ガジェット",
+            "buzz_count": "20"
+        },
+        {
+            "title": "顔がトヨタなコペン「GRSPORT」マイチェン－オートライトを標準装備",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/207197/47cfc9eb78d415c13f21e9a7c98f94b4_related.jpg",
+            "title_link": "https://internetcom.jp/207197/toyota-copen-gr-sport-2021-models",
+            "summary": "",
+            "category": "",
+            "buzz_count": "7"
+        },
+        {
+            "title": "ダイハツのオープン2シーター「コペン」マイチェン－サイドミラー拡大＆オートライト標準装備",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/207196/4065f1f05e86dd5c6e9e455869be0876_related.jpg",
+            "title_link": "https://internetcom.jp/207196/daihatsu-copen-2021-models",
+            "summary": "",
+            "category": "",
+            "buzz_count": "9"
+        },
+        {
+            "title": "イタリアンバイクブランド「ベネリ」から4モデル販売開始",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/207194/6dc2648c43732c86de234ad0fe5cce51_related.jpg",
+            "title_link": "https://internetcom.jp/207194/benelli-leoncino-250",
+            "summary": "",
+            "category": "",
+            "buzz_count": "4"
+        },
+        {
+            "title": "ミズノから『ドラえもん』のマスク登場！タケコプターで飛ぶ姿がキュートな「ドラえもんミズノマウスカバー」",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/207198/807c08de32f4bfe046e78b42ab0bc920_related.jpg",
+            "title_link": "https://internetcom.jp/207198/mizuno-doraemon-mouth-cover",
+            "summary": "",
+            "category": "",
+            "buzz_count": "6"
+        },
+        {
+            "title": "アプリリアのオフローダー「RX125」に2021年モデル―ホワイトをベースにした新グラフィック「ラリートリビュート」",
+            "thumbnail": "https://image.internetcom.jp/upload/articles/207193/4099569e8c2117b8a873fda1615c4b20_related.jpg",
+            "title_link": "https://internetcom.jp/207193/aprilia-rx125-and-sx125",
+            "summary": "",
+            "category": "",
+            "buzz_count": "5"
+        }
+    ]
+}
